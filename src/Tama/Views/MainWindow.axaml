@@ -3,7 +3,9 @@
         xmlns:vm="using:Tama.ViewModels"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        xmlns:views="clr-namespace:Tama.Views"
+        mc:Ignorable="d" d:DesignWidth="400" d:DesignHeight="400"
+        Width="400" Height="400" CanResize="False"
         x:Class="Tama.Views.MainWindow"
         Icon="/Assets/avalonia-logo.ico"
         Title="Tama">
@@ -12,6 +14,6 @@
         <vm:MainWindowViewModel/>
     </Design.DataContext>
 
-    <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    <views:Environment />
 
 </Window>
