@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="hangry_icon.svg"
+   sodipodi:docname="hungry_icon.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -38,36 +38,37 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect style="fill:#ffffff;stroke-width:0.8;stroke:black;stroke-linecap:square" id="rect634" width="12.137019" height="48.548077" x="94.597359" y="131.00841" />
     <ellipse
-       style="fill:#ffffff;stroke-width:0.264583"
+       style="fill:#ffffff" 
+        stroke="black"
+        stroke-linecap="square" 
+        stroke-width="0.8"
        id="path464"
        cx="93.347954"
        cy="181.8768"
        rx="9.1027641"
        ry="8.7457933" />
     <ellipse
-       style="fill:#ffffff;stroke-width:0.264583"
+       style="fill:#ffffff"
+        stroke="black"
+        stroke-linecap="square"
+        stroke-width="0.8"
        id="path464-0"
        cx="107.80528"
        cy="181.69832"
        rx="9.1027641"
        ry="8.7457933" />
-    <rect
-       style="fill:#ffffff;stroke-width:0.264583"
-       id="rect634"
-       width="12.137019"
-       height="48.548077"
-       x="94.597359"
-       y="131.00841" />
+    
     <ellipse
-       style="fill:#ff6600;stroke-width:0.264583"
+       style="fill:#ff6600;stroke-width:0.8;stroke:black;stroke-linecap:square"
        id="path840"
        cx="101.02284"
        cy="100.84436"
        rx="20.347357"
        ry="36.946518" />
     <ellipse
-       style="fill:#ff6600;stroke-width:0.264583"
+       style="fill:#ff6600;stroke-width:0.8;stroke:black;stroke-linecap:square"
        id="path848"
        cx="100.84435"
        cy="90.492188"
